@@ -1,0 +1,72 @@
+# Title
+
+- **Start date**: 2016-11-22
+- **Due date**: 2016-11-28 (remember to send a calendar invitation to eng@yourcompany.com)
+- **Main Author:** @steveafrost
+- **Backers:**
+  - @username1
+  - @username2
+- **Decision Delegate:** in case decision making / merge can be delegated
+
+## 1 Summary
+
+This is a decision about what to have for breakfast. It is between hashbrowns, toast, and pancakes. When evaluating these, I prefer to have hashbrowns. Hashbrowns have the longer prepare time but they do benefit from being the tastier option.
+
+## 2 Motivation
+
+Try to answer the following questions in a short paragraph:
+
+- Why are we doing this?
+We are deciding on hashbrowns because they are the tastier option. Pancakes and toast are quicker but we've had toast/pancakes quite a few days in a row already.
+
+- What use cases does it support?
+We can eat the hashbrowns. We can also store the hashbrowns for breakfast the next day or take them to lunch to save money on takeout. Hashbrowns also lend themselves well to hot sauce which we have a few bottles of in the fridge.
+
+- What is the expected outcome?
+The expected outcome is that we have a few dishes to cleanup but all in all a different breakfast than usual and that we will be full.
+
+- How is the company as a whole delivering more value after this?
+If you mean the company as in me, I am more attentative after eating breakfast. When preparing something more intensive such as hashbrowns vs the toast or pancakes, I am generally in a better mood. Since the cooking of the hasbrowns offers a period of meditation and a longer buffer between waking up and beginning work, I am more productive once work does begin.
+
+## 3 Detailed design
+
+Turn on the back right burner on the stove by turning the dial 1/8th of a turn until you hear clicking. Once the flame appears, turn the dial to the number 4. Grab the black skillet (see below for definition) from the cabinent and place it on top of the flame.
+
+Find olive oil in red & yellow container and unscrew the top by turning it in a counterclockwise direction. Pour the oil into the pan until you've made a puddle the size of a silver dollar. Allow 2 minutes for the pan & oil to warm up.
+
+Grab potato hash from freezer and open bag by pulling each side away from the other. Invert the bag and allow hash to fall into pan. Allow hash to brown - should take about 10 minutes. During this 10 minutes, move the hash around with the black, 5" long spatula.
+
+At the end of the 10 minutes, turn the dial clockwise until it won't turn anymore. Use spatula to remove hashbrowns from pan and place onto 3" wide plate from cabinent above microwave.
+
+Defined Terms
+Hashbrowns - potatoes that have been browned by using a skillet w/ oil
+Skillet - a pan with rounded edges that are around 1" tall
+Breakfast - the first meal of the day
+
+
+### 3.1 System 1
+
+How will system one behave in each interaction.
+
+#### 3.1.1 On action X, do Y
+
+Based on events triggered by other systems, execute a certain action.
+
+#### 3.2 System 2
+
+How will system one behave in each interaction.
+
+## 4 Drawbacks
+
+**Why should we *not* do this?**
+Hashbrowns do take awhile to cook. It would not be wise to do this when there is not enough time before the start of work. It is also not smart to do this if you already have a lot of dirty dishes in the sink.
+
+## 5 Alternatives
+
+**What other designs have been considered?**
+
+**What is the impact of not doing this?**
+
+## 6 Unresolved questions
+
+**What parts of the proposal are still TBD?**
